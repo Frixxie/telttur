@@ -1,0 +1,27 @@
+# Pakkeliste tur
+
+[ ] Pakksekk
+[ ] Telt
+[ ] Sovepose
+[ ] Liggeunderlag + oppblaasbar?
+[ ] Flaske/termos nalgene?
+[ ] Jettboil
+[ ] Stromkjokken
+[ ] Bestikk
+[ ] Vanntett jakke og buske
+[ ] Vanntette sko
+[ ] 3 tskjoter
+[ ] Kaffeutstyr + kaffe 250g koke, 250g filter
+[ ] Mat for 5 dager
+[ ] Gass
+[ ] Ullsokker 6 par
+[ ] Undertoy 3 par
+[ ] Superundertoy
+[ ] Ullgenser
+[ ] HF RADIO + batteri
+[ ] Antenner
+[ ] 1. hjelpsutstyr
+[ ] VHF UHF RADIO + batteri
+[ ] EBOK leser
+[ ] Snacks
+[ ] Hodelykt
