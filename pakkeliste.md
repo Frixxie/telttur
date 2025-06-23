@@ -30,3 +30,6 @@
  - [ ] Solbriller
  - [ ] Solkrem
  - [ ] Kaffekopp
+ - [ ] Soppelposer (hundeposer)
+ - [ ] Dopapir + spade
+ - [ ] Kamera
