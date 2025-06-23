@@ -26,3 +26,6 @@
  - [ ] Snacks
  - [ ] Hodelykt
  - [ ] Handduk
+ - [ ] Caps
+ - [ ] Solbriller
+ - [ ] Solkrem
