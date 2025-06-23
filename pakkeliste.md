@@ -25,3 +25,4 @@
 [ ] EBOK leser
 [ ] Snacks
 [ ] Hodelykt
+[ ] Handduk
