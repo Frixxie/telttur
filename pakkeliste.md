@@ -29,3 +29,4 @@
  - [ ] Caps
  - [ ] Solbriller
  - [ ] Solkrem
+ - [ ] Kaffekopp
