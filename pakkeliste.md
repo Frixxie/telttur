@@ -1,35 +1,35 @@
 # Pakkeliste tur
 
- - [ ] Pakksekk
- - [ ] Telt
- - [ ] Sovepose
- - [ ] Liggeunderlag + oppblaasbar?
- - [ ] Flaske/termos nalgene?
- - [ ] Jettboil
+ - [x] Pakksekk
+ - [x] Telt
+ - [x] Sovepose
+ - [x] Liggeunderlag + oppblaasbar
+ - [x] Flaske/termos
+ - [x] Jettboil
  - [ ] Stromkjokken
- - [ ] Bestikk
- - [ ] Vanntett jakke og buske
- - [ ] Vanntette sko
+ - [x] Bestikk
+ - [x] Vanntett jakke og buske
+ - [x] Vanntette sko
  - [ ] 3 tskjoter
  - [ ] Kaffeutstyr + kaffe 250g koke, 250g filter
  - [ ] Mat for 5 dager
- - [ ] Gass
+ - [x] Gass
  - [ ] Ullsokker 6 par
  - [ ] Undertoy 3 par
  - [ ] Superundertoy
- - [ ] Ullgenser
- - [ ] HF RADIO + batteri
- - [ ] Antenner
- - [ ] 1. hjelpsutstyr
- - [ ] VHF UHF RADIO + batteri
- - [ ] EBOK leser
+ - [x] Ullgenser
+ - [x] HF RADIO + batteri
+ - [x] Antenner
+ - [x] 1. hjelpsutstyr
+ - [x] VHF UHF RADIO + batteri
+ - [x] EBOK leser
  - [ ] Snacks
  - [ ] Hodelykt
- - [ ] Handduk
- - [ ] Caps
- - [ ] Solbriller
+ - [x] Handduk
+ - [x] Caps
+ - [x] Solbriller
  - [ ] Solkrem
  - [ ] Kaffekopp
  - [ ] Soppelposer (hundeposer)
  - [ ] Dopapir + spade
- - [ ] Kamera
+ - [x] Kamera
